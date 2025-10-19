@@ -30,7 +30,7 @@ This Flutter app simulates a deposit confirmation system for Reverse Vending Mac
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/ZakariaAshraf/Drop-Me-Task.git>
    cd drop_me_task
    ```
 
